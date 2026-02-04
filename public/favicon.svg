@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 -50 100 100" width="64" height="64">
+  <defs>
+    <style>
+      .atom { fill: none; stroke: #61dafb; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+  <g class="atom">
+    <ellipse rx="35" ry="12" />
+    <ellipse rx="35" ry="12" transform="rotate(60)" />
+    <ellipse rx="35" ry="12" transform="rotate(120)" />
+  </g>
+  <circle cx="0" cy="0" r="6" fill="#61dafb" />
+</svg>
